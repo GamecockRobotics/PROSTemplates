@@ -1,0 +1,12 @@
+[
+    {
+		"metadata": {
+			"location": "https://github.com/GamecockRobotics/PROSTemplates/Templates/Gamecocks@1.0.0.zip"
+		},
+		"name": "GamecockTemplate",
+		"py/object": "pros.conductor.templates.base_template.BaseTemplate",
+		"supported_kernels": "<=3.8.0",
+		"target": "v5",
+		"version": "3.8.0"
+	}
+]
